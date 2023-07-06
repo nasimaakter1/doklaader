@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Earthquake &#8211; WW Cam Britannica</title>
+	<atom:link href="https://ww.cam.britannica.com/tag/earthquake/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ww.cam.britannica.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 Jul 2023 06:45:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://ww.cam.britannica.com/wp-content/uploads/2023/07/wwcam.png</url>
+	<title>Earthquake &#8211; WW Cam Britannica</title>
+	<link>https://ww.cam.britannica.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1600 earthquakes in Iceland in one day</title>
+		<link>https://ww.cam.britannica.com/1600-earthquakes-in-iceland-in-one-day/</link>
+					<comments>https://ww.cam.britannica.com/1600-earthquakes-in-iceland-in-one-day/#respond</comments>
+		
+		<dc:creator><![CDATA[gambabu]]></dc:creator>
+		<pubDate>Thu, 06 Jul 2023 06:45:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Earthquake]]></category>
+		<category><![CDATA[Iceland]]></category>
+		<guid isPermaLink="false">https://ww.cam.britannica.com/?p=131</guid>
+
+					<description><![CDATA[1,600 earthquakes were felt in Reykjavík, the capital of Iceland, in one day. Officials in the country say so many earthquakes could trigger lava eruptions from the volcano. The Iceland Meteorological Office (IMO) said the first earthquake was felt at 4pm local time last Tuesday. Its origin was 40 km from the capital under the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>1,600 earthquakes were felt in Reykjavík, the capital of Iceland, in one day. Officials in the country say so many earthquakes could trigger lava eruptions from the volcano.</p>
+
+
+
+<p>The Iceland Meteorological Office (IMO) said the first earthquake was felt at 4pm local time last Tuesday. Its origin was 40 km from the capital under the Fagradashpiach hill. Fagradaspiach is located on a volcano. The volcano has erupted twice in the past two years — once in 2021, then in 2022.</p>
+
+
+
+<p>But till the last news no lava eruption was seen anywhere. Concerned persons fear that the eruption may start very soon.</p>
+
+
+
+<p>According to IMO data, only four of these earthquakes had a magnitude greater than four, which is considered a mild earthquake.</p>
+
+
+
+<p>Due to the earthquake, the aviation alert was changed from &#8216;green&#8217; to &#8216;yellow&#8217;.</p>
+
+
+
+<p>Iceland is the most active volcanic region in Europe.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ww.cam.britannica.com/1600-earthquakes-in-iceland-in-one-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
